@@ -1,4 +1,4 @@
-# AST
+# AST - Compiler Construction (MC921)
 
 The objective of this assignment is to use the parser to create an AST for the uC language.
 Further instructions can be seen in this
